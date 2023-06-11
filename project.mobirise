@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-06-01_0006",
+    "name": "Radio 20 Zero",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -50,14 +50,23 @@
     ],
     "uniqCompNum": 2,
     "versionPublish": "5.6.11",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": false,
+    "mbrsiteDomain": "t60spzmd6x",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Radio 20 Zero - Voci in rete | Ascolta la diretta",
+        "meta_descr": "Radio 20 Zero è il network di redazioni radiofoniche del Rhodense che punta a valorizzare i contesti sociali e culturali del nostro territorio. Scrivici a info@radio20zero.it",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
