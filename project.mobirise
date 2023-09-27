@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Radio 20 Zero",
-    "currentPage": "page2.html",
+    "currentPage": "livetalks.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -2521,10 +2521,12 @@
         }
       ]
     },
-    "page2.html": {
+    "livetalks.html": {
       "settings": {
         "title": "Live Talks",
-        "order": "1"
+        "order": "1",
+        "meta_descr": "Ogni settimana in onda con Marco Lastella per scoprire attività, giovani, territorio. Vuoi raccontare la tua storia? Scrivimi a marco@radio20zero.it",
+        "meta_image": "@PROJECT_PATH@/assets/images/schermata-2023-09-27-alle-14.46.27.png"
       },
       "components": [
         {
